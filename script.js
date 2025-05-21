@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-  "YAKIN JEM?",
+    "YAKIN JEM?",
     "SPEK JUNGWON GA NGAJAK 2x lo??",
     "YAKIN KALI NI GA MAU?",
     "AYOO LA SAYANGG",
