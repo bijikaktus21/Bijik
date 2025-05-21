@@ -70,7 +70,7 @@ let messageIndex = 0;
 
 function handleNoClick() {
     const GAHHButton = document.querySelector('.GAHH-button');
-    const MAUSAYANGButton = document.querySelector('.MAUSAYANG-button');
+    const MAU SAYANGButton = document.querySelector('.MAU SAYANG-button');
     noButton.textContent = messages[messageIndex];
     messageIndex = (messageIndex + 1) % messages.length;
     const currentSize = parseFloat(window.getComputedStyle(yesButton).fontSize);
