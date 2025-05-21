@@ -66,11 +66,10 @@ const messages = [
     "heheh bercanda sayang love you"
 ];
 
-let messageIndex = 0;
-
+let messageIndex = 
 function handleNoClick() {
     const GAHHButton = document.querySelector('.GAHH-button');
-    const MAU MAUButton = document.querySelector('.MAU MAU-button');
+    const MAU SAYANGButton = document.querySelector('.MAU SAYANG-button');
     noButton.textContent = messages[messageIndex];
     messageIndex = (messageIndex + 1) % messages.length;
     const currentSize = parseFloat(window.getComputedStyle(yesButton).fontSize);
