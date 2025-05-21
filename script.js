@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "YAKIN JEM?",
+    "SPEK JUNGWON GA NGAJAK 2x lo??",
+    "YAKIN KALI NI GA MAU?",
+    "AYOO LA SAYANGG",
+    "TIDAKK HARUS MAUU",
+    "MAU MAU MAUU YAAA WKWK",
+    "MAU LA KAK( nada mau nangis)",
+    "AYO LA KAK MAUUU( nangis dikit)",
+    "eits kalok nolak ga bisa bisa di pencet ni",
+    "heheh bercanda sayang love you"
 ];
 
 let messageIndex = 0;
