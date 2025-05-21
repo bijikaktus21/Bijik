@@ -55,7 +55,7 @@
 */
 const messages = [
     "YAKIN JEM?",
-    "SPEK JUNGWON GA NGAJAK 2x lo??",
+    "SAYANGGGG",
     "YAKIN KALI NI GA MAU?",
     "AYOO LA SAYANGG",
     "TIDAKK HARUS MAUU",
