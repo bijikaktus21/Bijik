@@ -69,7 +69,7 @@ const messages = [
 let messageIndex = 0;
 
 function handleNoClick() {
-    const noButton = document.querySelector('.GAHH-button');
+    const NoButton = document.querySelector('.GAHH-button');
     const YesButton = document.querySelector('.MAU SAYANGG-button');
     noButton.textContent = messages[messageIndex];
     messageIndex = (messageIndex + 1) % messages.length;
