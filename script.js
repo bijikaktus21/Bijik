@@ -63,7 +63,7 @@ const messages = [
     "MAU LA KAK( nada mau nangis)",
     "AYO LA KAK MAUUU( nangis dikit)",
     "eits kalok nolak ga bisa bisa di pencet ni",
-    "heheh bercanda sayang love you"
+    "HBD KAK LOVE YOU"
 ];
 
 let messageIndex = 0;
