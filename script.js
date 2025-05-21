@@ -66,7 +66,8 @@ const messages = [
     "heheh bercanda sayang love you"
 ];
 
-let messageIndex = 
+let messageIndex = 0;
+
 function handleNoClick() {
     const GAHHButton = document.querySelector('.GAHH-button');
     const MAU SAYANGButton = document.querySelector('.MAU SAYANG-button');
